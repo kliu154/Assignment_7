@@ -26,7 +26,7 @@ Remove and RemoveAt.
 
 7. How do you indicate that a class has a generic type parameter?
 
-<T>.
+\<T\>.
 
 8. True/False. Generic classes can only have one generic type parameter.
 
